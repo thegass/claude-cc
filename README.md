@@ -10,7 +10,7 @@
 
 ---
 
-![demo](demo.gif)
+![demo](https://raw.githubusercontent.com/paterlinimatias/claude-cc/master/demo.gif)
 
 ---
 
